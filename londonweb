@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>London Web</title>
+<h1 style="border:4px solid Maroon;">London Web</h1>
+  <b><h2 style="border:4px solid Navy;">London Introduction</h2>
+<p>London is the capital and the largest city of both the United Kingdom and England. It is among the oldest of the world’s great cities and its history spans nearly two millennia. London has lots of greenery, as well as classic parks. This website will include: </p>
+<ol>
+<li><a href="#Tourist Attractions">Tourist Attractions</a><br /></li>
+<li><a href="#Popular Foods">Popular Foods</a><br /></li>
+<li><a href="#Fun Facts">Fun Facts</a><br /></li>
+<li><a href="#Conclusion">Conclusion</a><br /></li>
+<li><a href="#Extra Sources">Extra Sources</a><br /></li>
+</ol> 
+  <h2 id="Tourist Attractions" style="border:4px solid Gray;">Tourist Attractions</h2>
+<p> The Big Ben: This is a clock tower located near the Houses of Parliament, and Big Ben is the name of the largest bell inside the clock tower. Originally called the Elizabeth Tower, residents in London call it the Big Ben due to the massive size. This popular tourist attraction is over 96 meters tall, and the bell weighs over 13 tons. Big Ben first chimed across Westminster in 1859, and it still rings on Remembrance Day and New Years. Lastly, tourists mainly like this tower because of its prestigious look and its lights during the night: Green and Orange. However, if you are planning to visit the Big Ben, the inside tour is only open to the residents of London, not oversea visitors. </p>
+<img src="Big Ben Attraction.jpg" alt="Big Ben" height="250" width="175">
+
+<p>London Bridge: This is a very popular bridge, and most children know of it from the nursery song, however, it is pretty safe currently. London Bridge has been depicted in its several forms, in art, literature, and songs, including the nursery rhyme "London Bridge, Is Falling Down". The London Bridge spans over the River Thames. This bridge has multiple semi-bridges, and the most popular one is the Tower Bridge. It consists of two towers and a bridge in between, and you will probably cross if you visit London. The current bridge stands at the western end of the Pool of London and is positioned 30 meters upstream from previous alignments.</p>
+
+<p>The London Eye: This is a somewhat Ferris wheel that gives an overview of the entire city. It is highly loved, mostly because of the great opportunities for pictures. The observation deck lights up greatly in the night and is the seen even from high heights. It is Europe's tallest Ferris wheel and is the most popular paid tourist attraction in the United Kingdom with over 3.75 million visitors annually. The London Eye was built for the Empire of India Exhibition and stands as an overview of London ever since. It has become a modern symbol representing a global icon, and the experience showcases breathtaking 360-degree views of the capital. The London Eye has been the most visited landmark in the city for the past 10 years. </p>
+<img src="London Eye.gif" alt="London Eye" height="275" width="375">
+
+<p>The Buckingham Palace: Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom. Located by Westminster, the palace is often at the center of London occasions and celebrations. This castle has 775 rooms, and the garden is the largest private garden in London. The staterooms are used for state entertaining and are open to the public each year for August and September. At the rear of the palace is the large garden, which together with its lake is the biggest private garden in London. There, the Queen hosts her annual garden parties each summer. </p>
+
+  <h2 id="Popular Foods" style="border:4px solid Maroon;">Popular Foods</h2>
+<p><b>Yorkshire Pudding:</b> This is not a dessert, and instead it is the main course. This is not a desert. It consists of flour, milk, and eggs. Yorkshire Pudding is usually found with moistened gravy. Yorkshire pudding can be served in numerous ways depending on the choice of ingredients, the size of the pudding and the accompanying components of the dish. As a first course, it can be served with onion gravy. For the main course, it is often served with beef and gravy. National Yorkshire Pudding Day has been celebrated on the first Sunday in February in Britain since 2007. </p>
+<p><b>Cream Tea:</b> In London, cream tea is what you want to have. Along with a properly brewed cup of tea, you also get scones served with jam and clotted cream or sandwiches made with slices of cucumber. Cream tea is a form of afternoon tea light meal, consisting of tea taken with a combination of scones, clotted cream, and jam. There are many variations to this drink: Firstly, instead of cream, you can put strawberry jam on it. Traditionally it is important that the scones be warm (ideally, freshly baked), and that clotted cream and strawberry jam, rather than any other variety, are used. </p> 
+<img src="Cream Tea.jpg" alt="Cream Tea" height="200" width="300">
+<p><b>Sticky Toffee Pudding:</b> Sticky toffee pudding consists of moist sponge cake stuffed with raisins or dates drenched in a toffee sauce and served with custard or ice cream. This pudding consisted of a very moist sponge cake, made with finely chopped dates, covered in a toffee sauce and often served with a vanilla custard or vanilla ice-cream. This is usually served with bread and butter, and it is a classic British dessert. </p>
+<p><b>Restaurants:</b></p>
+<ol>
+<li>Peninsula Restaurant</li>
+<li>London Shell Co.</li>
+<li>Shepherd's of Westminister</li>
+</ol>
+  <h2 id="Fun Facts" style="border:4px solid Navy;">Fun Facts</h2>
+<p>London is located by Birmingham, and it is on the edge of the country; United Kingdom. A few countries located by London are: Germany and France, which are across from London, a sea is separating them. So if you are looking to travel to London, these are a few areas you can visit too!
+Secondly, London is a very diverse city. As one of the most diverse cities in the world, London houses over 8 million residents, who collectively speak over 300 languages, including Bengali, Gujarati, Punjabi, Cantonese, Mandarin, Hokkien and of course English. Thirdly, the Queen lives in the Buckingham Palace, and although she has many other royal residences, the Queen still sometimes resides in Buckingham Palace.</p>
+  
+  <h2 id="Conclusion" style="border:4px solid Gray;">Conclusion</h2>
+<p>Here are a few fun facts about London if you are interested! The Romans founded London at about 50 AD. Its name is derived from the Celtic word Londinios, which means the place of the old one. Some other fascinating and unique things to see in London are the red buses, small black taxi cabs, and the famous red telephone boxes. As you can see, this buzzing city is full of great adventures that were not mentioned above: The British Museum, Madame Tussaud's, Sherlock Holmes Museum, Oxford Street, and of course, Harry Potter World. However, London is mostly known for its stylish malls, its football, and the difference from Canada. </p>
+
+  <h2 id="Extra Sources" style="border:4px solid Olive;">Extra Sources</h2>
+<ol>
+<li><a href="https://www.visitlondon.com/things-to-do/sightseeing/london-attraction">Visit here for more tourist attractions in London!</a></li>
+<li><a href="https://freetoursbyfoot.com/top-10-british-foods-london/">Learn more about foods in London.</a></li>
+<li><a href="http://justfunfacts.com/interesting-facts-about-london/">Look here for fun facts if you want to learn more about London!</a></li></b>
+<img src="London Background.jpg" alt="London" height="200" width="300">
+</body>
+</html>
